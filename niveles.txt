@@ -1,0 +1,5 @@
+nickname1:533:100:mago
+nickname2:420:69:brujo
+nickname3:333:73:paladin
+nickname4:1024:24:chaman
+nickname5:123:23:monje
